@@ -8,7 +8,6 @@ export const getJwtSecretKey = () => {
 };
 
 export async function verifyJwtToken(token) {
-  console.log(getJwtSecretKey(), process.env.JWT_SECRET_KEY);
   try {
     const { payload } = await jwtVerify(token, getJwtSecretKey());
     return payload;
