@@ -15,11 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="tr" className={inter.className}>
       <body className="container text-[min(4vw,1.25rem)] font-semibold">
         <Header />
-        {process.env.NEXT_PUBLIC_JWT_SECRET_KEY}
-        <main>
-          {children}
-          {process.env.JWT_SECRET_KEY}
-        </main>
+        <main>{children}</main>
       </body>
     </html>
   );
