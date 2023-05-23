@@ -13,7 +13,7 @@ const inter = Poppins({ weight: "600", subsets: ["latin"] });
 export default function RootLayout({ children }) {
   return (
     <html lang="tr" className={inter.className}>
-      <body className="container text-[min(4vw,1.25rem)] font-semibold">
+      <body className="container text-[min(3.5vw,1.25rem)] font-semibold">
         <Header />
         <main>{children}</main>
       </body>
