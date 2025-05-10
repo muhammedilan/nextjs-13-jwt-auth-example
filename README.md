@@ -31,7 +31,8 @@ https://nextjs-13-jwt-auth-example-muhammedilan-team.vercel.app
 Bu projeyi çalıştırmak için aşağıdaki ortam değişkenlerini .env dosyanıza eklemeniz gerekecek
 
 `JWT_SECRET_KEY`
-  
+
+&nbsp;
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
@@ -63,4 +64,4 @@ npm run dev
 
 Herhangi bir geri bildiriminiz varsa, lütfen muhammed.ilan.se@gmail.com adresinden bize ulaşın.
 
-  
+&nbsp;
