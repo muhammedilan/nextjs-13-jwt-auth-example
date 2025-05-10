@@ -26,6 +26,12 @@ https://nextjs-13-jwt-auth-example-muhammedilan-team.vercel.app
 ![Homepage](https://res.cloudinary.com/dd5hzgg9i/image/upload/v1746874433/nextjs-13-jwt-auth-example_dvuufe.png)
 
 &nbsp;
+## Ortam Değişkenleri
+
+Bu projeyi çalıştırmak için aşağıdaki ortam değişkenlerini .env dosyanıza eklemeniz gerekecek
+
+`JWT_SECRET_KEY`
+  
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
