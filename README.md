@@ -23,7 +23,7 @@ https://nextjs-13-jwt-auth-example-muhammedilan-team.vercel.app
 &nbsp;
 ## Ekran Görüntüleri
 
-![Homepage](https://res.cloudinary.com/dd5hzgg9i/image/upload/v1746874433/nextjs-13-jwt-auth-example_dvuufe.png)
+![Homepage](https://github.com/user-attachments/assets/e41b0e47-e572-483e-8a53-b4b1aa1e320c)
 
 &nbsp;
 ## Ortam Değişkenleri
